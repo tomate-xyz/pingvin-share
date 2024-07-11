@@ -142,7 +142,7 @@ export default function Home() {
             <Group mt={30}>
               <Button
                 component={Link}
-                href="/auth/signUp"
+                href="/auth/signIn"
                 radius="xl"
                 size="md"
                 className={classes.control}
@@ -151,7 +151,7 @@ export default function Home() {
               </Button>
               <Button
                 component={Link}
-                href="https://github.com/stonith404/pingvin-share"
+                href="https://github.com/tomate-xyz/pingvin-share"
                 target="_blank"
                 variant="default"
                 radius="xl"

@@ -83,7 +83,7 @@ const ManageShareTable = ({
                   <td>
                     <Group position="right">
                       <ActionIcon
-                        color="victoria"
+                        color="sunset"
                         variant="light"
                         size={25}
                         onClick={() => {

@@ -117,7 +117,7 @@ const MyShares = () => {
                         <TbInfoCircle />
                       </ActionIcon>
                       <ActionIcon
-                        color="victoria"
+                        color="sunset"
                         variant="light"
                         size={25}
                         onClick={() => {

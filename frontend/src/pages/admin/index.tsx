@@ -88,7 +88,7 @@ const Admin = () => {
                     key={item.title}
                     className={classes.item}
                   >
-                    <item.icon color={theme.colors.victoria[8]} size={35} />
+                    <item.icon color={theme.colors.sunset[8]} size={35} />
                     <Text mt={7}>{item.title}</Text>
                   </Paper>
                 </Col>
