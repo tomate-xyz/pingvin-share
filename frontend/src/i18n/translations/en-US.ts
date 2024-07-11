@@ -14,25 +14,25 @@ export default {
   // END navbar
 
   // /
-  "home.title": "A <h>self-hosted</h> file sharing platform.",
+  "home.title": "Welcome!",
 
   "home.description":
-    "Do you really want to give your personal files in the hand of third parties like WeTransfer?",
-  "home.bullet.a.name": "Self-Hosted",
-  "home.bullet.a.description": "Host Pingvin Share on your own machine.",
+    "Looking for a spot to safely drop off your files? You've found it!",
+  "home.bullet.a.name": "Fast",
+  "home.bullet.a.description": "Say no to slow download speeds.",
   "home.bullet.b.name": "Privacy",
   "home.bullet.b.description":
     "Your files are your files and should never get into the hands of third parties.",
-  "home.bullet.c.name": "No annoying file size limit",
+  "home.bullet.c.name": "Design",
   "home.bullet.c.description":
-    "Upload as big files as you want. Only your hard drive will be your limit.",
+    "Modern designed UI which is easy to navigate.",
 
-  "home.button.start": "Get started",
+  "home.button.start": "Sign In",
   "home.button.source": "Source code",
   // END /
 
   // /auth/signin
-  "signin.title": "Welcome back",
+  "signin.title": "Welcome!",
   "signin.description": "You don't have an account yet?",
   "signin.button.signup": "Sign up",
   "signin.input.email-or-username": "Email or username",
@@ -346,8 +346,8 @@ export default {
   // END /upload
 
   // /share/[id]
-  "share.title": "Share {shareId}",
-  "share.description": "Look what I've shared with you!",
+  "share.title": "Share",
+  "share.description": "{shareId}",
   "share.error.visitor-limit-exceeded.title": "Visitor limit exceeded",
   "share.error.visitor-limit-exceeded.description":
     "The visitor limit from this share has been exceeded.",
@@ -542,7 +542,7 @@ export default {
     "Client secret of the OpenID Connect OAuth app",
 
   // 404
-  "404.description": "Oops this page doesn't exist.",
+  "404.description": "Oops, seems like this page doesn't exist.",
   "404.button.home": "Bring me back home",
 
   // error
