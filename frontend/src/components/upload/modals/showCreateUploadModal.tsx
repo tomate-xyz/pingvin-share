@@ -80,7 +80,7 @@ const CreateUploadModalBody = ({
 
   const generatedLink = Buffer.from(Math.random().toString(), "utf8")
     .toString("base64")
-    .substr(10, 7);
+    .substr(10, 12);
 
   const [showNotSignedInAlert, setShowNotSignedInAlert] = useState(true);
 
@@ -207,7 +207,7 @@ const CreateUploadModalBody = ({
                   "link",
                   Buffer.from(Math.random().toString(), "utf8")
                     .toString("base64")
-                    .substr(10, 7),
+                    .substr(10, 12),
                 )
               }
             >
