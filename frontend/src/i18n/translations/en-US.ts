@@ -18,7 +18,7 @@ export default {
 
   "home.description":
     "Looking for a spot to safely drop off your files? You've found it!",
-  "home.bullet.a.name": "Fast",
+  "home.bullet.a.name": "Speed",
   "home.bullet.a.description": "Say no to slow download speeds.",
   "home.bullet.b.name": "Privacy",
   "home.bullet.b.description":
